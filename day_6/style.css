@@ -1,0 +1,48 @@
+/* Page background and base text */
+body {
+    background-color: #E8EEF2;
+    color: #37393A;
+    font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+header {
+    background-color: #77B6EA;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Form area */
+form {
+    background-color: #FFFFFF;
+    color: #37393A;
+    padding: 20px;
+    border: 2px solid #D6C9C9;
+}
+
+/* Labels */
+label {
+    color: #37393A;
+}
+
+/* Inputs */
+input {
+    background-color: #C7D3DD;
+    color: #37393A;
+    border: 1px solid #D6C9C9;
+    padding: 5px;
+}
+
+/* Submit button */
+input[type="submit"] {
+    background-color: #77B6EA;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #5ca3d6;
+}
